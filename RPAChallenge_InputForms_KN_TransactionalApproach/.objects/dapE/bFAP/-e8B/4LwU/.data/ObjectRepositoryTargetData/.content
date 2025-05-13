@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5ilzN-eDBU-NPaCIO6m1iw" Reference="gutFhn1B9EamP79dhNyasQ/4LwUcLSEW0WzCGsceoc0pw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="756, 371, 558, 46" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelEmail' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelEmail' class='ng-untouched ng-pristine ng-invalid' matching:ng-reflect-name='fuzzy' fuzzylevel:ng-reflect-name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="e195880a-1e66-45f5-8913-a7bd4b5c09c7" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="[string.Format(&quot;&lt;html app='chrome.exe' url='{0}' /&gt;&quot;, strBaseUrl)]" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="756, 352, 32, 17" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Email' tag='LABEL' innertext='Email' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Email' tag='LABEL' innertext='Email' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:innertext='fuzzy' fuzzylevel:innertext='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="a63bd348-1d69-47a7-9494-af10006782d2" ImageBase64="" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="abc49bca4ca9a7a51e8e7b3a86cbfac1.png" xmlns="">0qAWdy9M27EWpW2So6uTqFg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="https://rpachallenge.com/" Name="strBaseUrl" />
+    </scg:List>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

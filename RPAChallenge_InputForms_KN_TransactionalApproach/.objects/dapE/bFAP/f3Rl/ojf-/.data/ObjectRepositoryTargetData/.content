@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sLCb4UQX_EmdDLF5fhqfbA" Reference="gutFhn1B9EamP79dhNyasQ/ojf-O4zUrUWRa7FCPthBIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="1856, 147, 118, 64" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='nav-mobile' aaname='Input Forms' innertext='Input Forms' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl parentid='nav-mobile' aaname='Input Forms' innertext='Input Forms' tag='A' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:innertext='fuzzy' fuzzylevel:innertext='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="bfed0e05-b5fd-471a-81e1-c7df01bd021f" ImageBase64="" ScopeSelectorArgument="[string.Format(&quot;&lt;html app='chrome.exe' url='{0}' /&gt;&quot;, strBaseUrl)]" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="a4f9e697f0a18ad1888ca27595b57931.png" xmlns="">0V0AoqpuViEeNEqpU7ToJfg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="https://rpachallenge.com/" Name="strBaseUrl" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nEHRAeUGX0eEycvLTc1LQA" Reference="gutFhn1B9EamP79dhNyasQ/BIvwfFmPAU6fNyeoTAHj9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="756, 460, 558, 46" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelPhone' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelPhone' class='ng-untouched ng-pristine ng-invalid' matching:ng-reflect-name='fuzzy' fuzzylevel:ng-reflect-name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="f4772053-f928-4954-9dea-38a85ac4510f" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="[string.Format(&quot;&lt;html app='chrome.exe' url='{0}' /&gt;&quot;, strBaseUrl)]" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="756, 440, 89, 17" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Phone Number' tag='LABEL' innertext='Phone Number' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl aaname='Phone Number' tag='LABEL' innertext='Phone Number' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:innertext='fuzzy' fuzzylevel:innertext='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="f05526a5-470a-49da-8f9b-593453970c51" ImageBase64="" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9f28871735eba89b0b6f32d305a0ffc8.png" xmlns="">0HtHev459iEKDt1MuDesO1Q</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="https://rpachallenge.com/" Name="strBaseUrl" />
+    </scg:List>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,68 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallenge/dataEnteringProcess.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strBaseUrl&Sequence_1",
+        "strAddress&Sequence_1",
+        "strCompanyName&Sequence_1",
+        "strEmail&Sequence_1",
+        "strFirstName&Sequence_1",
+        "strLastName&Sequence_1",
+        "strPhoneNumber&Sequence_1",
+        "strRIC&Sequence_1",
+        "dtInputData&Sequence_1",
+        "strFilePath&Sequence_4",
+        "excelColumns&Sequence_5",
+        "strQueueReference&Sequence_7",
+        "strFirstName&Sequence_7",
+        "strLastName&Sequence_7",
+        "strCompanyName&Sequence_7",
+        "strRIC&Sequence_7",
+        "strAddress&Sequence_7",
+        "strEmail&Sequence_7",
+        "strPhoneNumber&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallenge/sessionChecker.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strBaseUrl&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallenge/CloseApplication.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strBaseUrl&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
